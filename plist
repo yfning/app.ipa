@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string> </string>
+					<string>http://zyan.cc/demo/ios/jhsmyt_logo.png </string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string> </string>
+					<string>http://zyan.cc/demo/ios/jhsmyt_logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
